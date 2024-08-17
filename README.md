@@ -1,5 +1,6 @@
-GEMINI AI Clone
+<h2>GEMINI AI Clone</h2>
 <img src="./src/imgs/geminiimg.jfif" alt="GEMINI AI Logo" width="200">
+</br>
 📖 Descrição
 <p>Este projeto é um clone do <strong>GEMINI AI</strong>, desenvolvido para replicar funcionalidades avançadas de inteligência artificial, como processamento de linguagem natural e aprendizado de máquina. O objetivo é fornecer uma base sólida para experimentação e implementação de IA em projetos reais.</p>
 🚀 Funcionalidades
@@ -20,15 +21,3 @@ GEMINI AI Clone
   <li><strong>Banco de Dados:</strong> MongoDB</li>
   <li><strong>Inteligência Artificial:</strong> Python, TensorFlow</li>
 </ul>
-🤝 Contribuindo
-<p>Contribuições são bem-vindas! Se você deseja contribuir com este projeto, siga os passos abaixo:</p>
-<ol>
-  <li>Faça um fork do repositório.</li>
-  <li>Crie uma nova branch:</li>
-  <pre><code>git checkout -b feature/nova-funcionalidade</code></pre>
-  <li>Faça commit das suas mudanças:</li>
-  <pre><code>git commit -m 'Adiciona nova funcionalidade'</code></pre>
-  <li>Envie suas mudanças para o repositório remoto:</li>
-  <pre><code>git push origin feature/nova-funcionalidade</code></pre>
-  <li>Abra um Pull Request.</li>
-</ol>
