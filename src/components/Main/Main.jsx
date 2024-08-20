@@ -48,7 +48,7 @@ const Main = () => {
                 <img src={assets.send_icon} alt="" />
               </div>
             </div>
-            <p>O Gemini pode apresentar informações imprecisas, inclusive sobre pessoas. Por isso, cheque as respostas. Sua privacidade e os apps do Gemini</p>
+            <p className='bottom-info'>O Gemini pode apresentar informações imprecisas, inclusive sobre pessoas. Por isso, cheque as respostas. Sua privacidade e os apps do Gemini</p>
           </div>
         </div>
     </div>

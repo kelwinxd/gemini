@@ -106,3 +106,9 @@
     align-items: center;
     gap: 10px;
 }
+
+.main .bottom-info {
+    font-size: 13px;
+    margin: 15px;
+    text-align: center;
+}
